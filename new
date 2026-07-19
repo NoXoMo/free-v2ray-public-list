@@ -1,9 +1,4 @@
 #profile-title: اکانت خودم
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#profile-title: اکانت خودم
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=chrome&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef&serviceName=web.max.ru&mode=gun# By EbraSha 📀
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28# By EbraSha 🕶️
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@nl2.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=chrome&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&serviceName=web.max.ru&mode=gun# By EbraSha 🛡️
